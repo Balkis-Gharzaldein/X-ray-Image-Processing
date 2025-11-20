@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Multi_Media\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA36194-24A5-4602-820D-68753F6FD316}|Multi_project\\Multi_project.csproj|D:\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Multi_Media\\multi_project\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA36194-24A5-4602-820D-68753F6FD316}|Multi_project\\Multi_project.csproj|solutionrelative:multi_project\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA36194-24A5-4602-820D-68753F6FD316}|Multi_project\\Multi_project.csproj|d:\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\multi_media\\multi_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA36194-24A5-4602-820D-68753F6FD316}|Multi_project\\Multi_project.csproj|solutionrelative:multi_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA36194-24A5-4602-820D-68753F6FD316}|Multi_project\\Multi_project.csproj|D:\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Multi_Media\\multi_project\\nextpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA36194-24A5-4602-820D-68753F6FD316}|Multi_project\\Multi_project.csproj|solutionrelative:multi_project\\nextpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA36194-24A5-4602-820D-68753F6FD316}|Multi_project\\Multi_project.csproj|D:\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Multi_Media\\multi_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DA36194-24A5-4602-820D-68753F6FD316}|Multi_project\\Multi_project.csproj|solutionrelative:multi_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Multi_Media\\Multi_project\\Program.cs",
+              "RelativeDocumentMoniker": "Multi_project\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Multi_Media\\Multi_project\\Program.cs [Design]",
+              "RelativeToolTip": "Multi_project\\Program.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:12:37.485Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "D:\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Multi_Media\\Multi_project\\main.cs",
+              "RelativeDocumentMoniker": "Multi_project\\main.cs",
+              "ToolTip": "D:\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Multi_Media\\Multi_project\\main.cs",
+              "RelativeToolTip": "Multi_project\\main.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:19:21.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NextPageForm.cs",
+              "DocumentMoniker": "D:\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Multi_Media\\Multi_project\\NextPageForm.cs",
+              "RelativeDocumentMoniker": "Multi_project\\NextPageForm.cs",
+              "ToolTip": "D:\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Multi_Media\\Multi_project\\NextPageForm.cs",
+              "RelativeToolTip": "Multi_project\\NextPageForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:16:24.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Multi_Media\\Multi_project\\Program.cs",
+              "RelativeDocumentMoniker": "Multi_project\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Multi_Media\\Multi_project\\Program.cs",
+              "RelativeToolTip": "Multi_project\\Program.cs",
+              "ViewState": "AQIAAEsFAAAAAAAAAAAuwKsFAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:09:58.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

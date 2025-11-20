@@ -1,0 +1,141 @@
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\Multi_project.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\Multi_project.Form1.resources
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\WindowsFormsApp1.MainForm.resources
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\Multi_project.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\Multi_project.exe
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\Multi_project.deps.json
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\Multi_project.runtimeconfig.json
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\Multi_project.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\Multi_project.pdb
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\AForge.Imaging.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\AForge.Math.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\MathNet.Numerics.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.Blob.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.CPlusPlus.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.DebuggerVisualizers.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.Gpu.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.MachineLearning.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.UserInterface.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\Multi_project.Properties.Resources.resources
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\Multi_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\Multi_project.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\Multi_project.AssemblyInfo.cs
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\Multi_project.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\Multi_pr.1082B7AC.Up2Date
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\Multi_project.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\refint\Multi_project.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\Multi_project.pdb
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\Multi_project.genruntimeconfig.cache
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\ref\Multi_project.dll
+C:\Users\HP\source\repos\Multi_project\Multi_project\obj\Debug\net8.0-windows\WindowsFormsApp1.NextPageForm.resources
+C:\Users\HP\source\repos\Multi_project\Multi_project\bin\Debug\net8.0-windows\ExifLib.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Multi_project.exe
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Multi_project.deps.json
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Multi_project.runtimeconfig.json
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Multi_project.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Multi_project.pdb
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\AForge.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\AForge.Imaging.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\AForge.Math.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Emgu.CV.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\ExifLib.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\MathNet.Numerics.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\NAudio.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\NAudio.Asio.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\NAudio.Core.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\NAudio.Midi.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.Blob.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.CPlusPlus.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.DebuggerVisualizers.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.Gpu.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.MachineLearning.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.UserInterface.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\OpenCvSharp.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\OxyPlot.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\OxyPlot.WindowsForms.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_project.csproj.AssemblyReference.cache
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_project.Form1.resources
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\WindowsFormsApp1.NextPageForm.resources
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\WindowsFormsApp1.MainForm.resources
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_project.Properties.Resources.resources
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_project.csproj.GenerateResource.cache
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_project.AssemblyInfoInputs.cache
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_project.AssemblyInfo.cs
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_project.csproj.CoreCompileInputs.cache
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_pr.1082B7AC.Up2Date
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_project.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\refint\Multi_project.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_project.pdb
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_project.genruntimeconfig.cache
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\ref\Multi_project.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\System.ApplicationModel.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\itextsharp.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.Polly.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Polly.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Polly.Extensions.Http.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Telegram.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Telegram.Bot.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Telegram.Bots.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\TLSchema.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Core.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\WTelegramClient.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Syncfusion.Compression.Portable.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Syncfusion.Licensing.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Syncfusion.Pdf.Portable.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\OpenQA.Selenium.Chrome.Fiddler.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\WebDriver.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Amazon.Core.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Amazon.S3.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Carbon.Storage.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Google.Apis.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Google.Apis.Drive.v3.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\System.Management.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\obj\Debug\net8.0-windows\Multi_project.sourcelink.json
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Accord.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Accord.Imaging.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Accord.Math.Core.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Accord.Math.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Accord.Statistics.dll
+D:\OneDrive\سطح المكتب\Multi_Media\Multi_project\bin\Debug\net8.0-windows\Accord.dll.config
